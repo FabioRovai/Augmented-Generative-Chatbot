@@ -1,4 +1,4 @@
-# Augmented-Generative-Chatbot
+# AGC (Augmented Generative Chatbot)
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/10q2S6bSfgQQPOEtWmsZ-pmOn1HoQWljj?usp=sharing)
 
